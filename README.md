@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anvesha Vyas</h1>
-<h3 align="center">AI/ML Enthusiast | Gen AI | Deep Learning | Data Science |</h3>
+<h3 align="center">AI/ML | Gen AI | Deep Learning | Data Science |</h3>
 
 ---
+<br><br>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<p align="right">
+<img alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZwaDRyZDRoaGJlNmN2eHRxNW0wZmE4dmhwa3hjODNsaGNibXdjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif">
+</p>
+
+<br>
 
 ## About Me
 
@@ -52,21 +57,9 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anveshavyas&show_icons=true&theme=tokyonight" />
-</p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anveshavyas&layout=compact&theme=tokyonight&cache_seconds=1800" /></p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anveshavyas&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anveshavyas&bg_color=0d1117&color=bf91f3&line=bf91f3&point=ffffff&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=anveshavyas&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
-</p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=anveshavyas&show_icons=true&theme=tokyonight&cache_seconds=1800" /></p>
 
 ---
 
