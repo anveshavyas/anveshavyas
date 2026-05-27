@@ -5,15 +5,14 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-## 🚀 About Me
+## About Me
 
 - 🎓 B.Tech CS-AIML Student at VIT Pune
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🌱 Currently exploring Generative AI, RAG and Deep Learning
-- 💡 Love building AI-powered real-world applications
 - 🧠 Interested in NLP, Computer Vision and Data Science
 - 🏆 AIML Secretary at Computer Society of India VIT Pune
-- 🎯 Goal: Contributing to cutting-edge AI research and applications
+- 🎯 Goal: Contributing to real-world AI research and applications
 - ⚡ Fun fact: I believe AI will revolutionize how we solve complex problems!
 - 📫 Reach me at: **anvesha.vyas23@vit.edu**
 
@@ -21,12 +20,12 @@
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
+### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript" />
 </p>
 
-### 🤖 AI/ML
+### AI/ML and DS
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 </p>
@@ -39,12 +38,12 @@
 - Data Science
 - Gen AI
 
-### 🌐 Web Development
+### Web Development
 <p>
 <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,html,css" />
 </p>
 
-### 🛢️ Database & Other Tools
+### Database & Other Tools
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
 </p>
@@ -53,14 +52,8 @@
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anveshavyas&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anveshavyas&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -68,7 +61,11 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=anveshavyas&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anveshavyas&bg_color=0d1117&color=bf91f3&line=bf91f3&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anveshavyas&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
 </p>
 
 ---
