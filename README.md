@@ -2,12 +2,6 @@
 <h3 align="center">AI/ML | Gen AI | Deep Learning | Data Science |</h3>
 
 ---
-
-<p align="right">
-<img alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZwaDRyZDRoaGJlNmN2eHRxNW0wZmE4dmhwa3hjODNsaGNibXdjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif">
-</p>
-
----
 ## About Me
 
 - 🎓 B.Tech CS-AIML Student at VIT Pune
