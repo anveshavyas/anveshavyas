@@ -44,12 +44,14 @@
 <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,html,css" />
 </p>
 
-### 🛢️ Database & Tools
+### 🛢️ Database & Other Tools
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
 </p>
 
 ---
+
+# 📊 GitHub Stats
 
 # 📊 GitHub Stats
 
@@ -63,6 +65,10 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anveshavyas&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anveshavyas&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
