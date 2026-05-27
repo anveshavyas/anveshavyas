@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anvesha Vyas</h1>
-<h3 align="center">AI/ML Enthusiast | Gen AI | Deep Learning | Data Science | Final Year CS-AIML Student at VIT Pune</h3>
+<h3 align="center">AI/ML Enthusiast | Gen AI | Deep Learning | Data Science |</h3>
 
 ---
 
