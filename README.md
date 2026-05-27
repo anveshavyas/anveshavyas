@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Anvesha Vyas</h1>
-<h3 align="center">AI/ML | Gen AI | Deep Learning | Data Science |</h3>
+<h3 align="center">AI/ML | Gen AI | Deep Learning | Data Science </h3>
 
 ---
 ## About Me
