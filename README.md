@@ -2,14 +2,10 @@
 <h3 align="center">AI/ML | Gen AI | Deep Learning | Data Science |</h3>
 
 ---
-<br><br>
 
-<p align="right">
-<img alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZwaDRyZDRoaGJlNmN2eHRxNW0wZmE4dmhwa3hjODNsaGNibXdjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif">
-</p>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZwaDRyZDRoaGJlNmN2eHRxNW0wZmE4dmhwa3hjODNsaGNibXdjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif">
 
-<br>
-
+---
 ## About Me
 
 - 🎓 B.Tech CS-AIML Student at VIT Pune
@@ -57,9 +53,13 @@
 
 # 📊 GitHub Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anveshavyas&layout=compact&theme=tokyonight&cache_seconds=1800" /></p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anveshavyas&bg_color=0d1117&color=bf91f3&line=bf91f3&point=ffffff&area=true&hide_border=true" />
+</p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=anveshavyas&show_icons=true&theme=tokyonight&cache_seconds=1800" /></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anveshavyas&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
+</p>
 
 ---
 
